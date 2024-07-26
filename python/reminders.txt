@@ -1,0 +1,3 @@
+- Fix comments and variable names: make everything clearer and easier to read
+- Work on a few plots: label and format axes better
+- Continue to explore data
