@@ -2,3 +2,4 @@
 - Work on a few plots: label and format axes better
 - Continue to explore data
 - Create more directories for data, scripts, etc.
+- Create a readme and update the main readme
