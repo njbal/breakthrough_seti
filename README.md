@@ -1,2 +1,2 @@
 # breakthrough_seti
-Collection of Jupyter notebooks based to the exploration of data relevant to SETI.
+Collection of code and data relevant to SETI, as part of the Breakthrough Listen Initiative.
